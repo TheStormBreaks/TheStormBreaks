@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheStormBreaks](https://github.com/TheStormBreaks)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/somya-jha-928100/](https://www.linkedin.com/in/somya-jha-928100/)
+- 📝 I regularly write articles on [my linkedin profile](https://www.linkedin.com/in/somya-jha-928100/)
 
 - 💬 Ask me about **python, js and html. or my games 😃**
 
 - 📫 How to reach me **m2somya@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/somya-jha-928100/](https://www.linkedin.com/in/somya-jha-928100/)
+- 📄 Know about my experiences [on linkedin](https://www.linkedin.com/in/somya-jha-928100/)
 
 - ⚡ Fun fact **I love marvel and i ship Patrochilles**
 
