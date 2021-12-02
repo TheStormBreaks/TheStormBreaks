@@ -3,7 +3,7 @@
 
 -------
 
-- 🔭 I’m currently working on [my personal website](www.cyberhertz.in)
+- 🔭 I’m currently working on [my personal website](https://github.com/TheStormBreaks/cyberhertz.in)
 
 - 🌱 I’m currently learning **game development with javascript**
 
