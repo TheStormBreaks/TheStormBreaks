@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **game development with javascript**
 
-- 👯 I’m looking to collaborate on [my coming up corporate insta profile](@cyberhertz1)
+- 👯 I’m looking to collaborate on **my coming up corporate insta profile**
 
 - 🤝 I’m looking for help with **my discord projects**
 
